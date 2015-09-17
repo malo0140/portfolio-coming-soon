@@ -21,6 +21,11 @@ html {
     background-color: #5FC8D7;
 }
 
+.white {
+    border-bottom-width: 1px;
+    border-color: white;
+}
+
 .info {
     text-align: center;
     margin-top: 15px;
@@ -35,11 +40,4 @@ html {
     margin: auto;
 }
 
-.square {
-    width: 300px;
-    height: 300px;
-    border: 1px;
-    border-color: white;
-    
-}
 
