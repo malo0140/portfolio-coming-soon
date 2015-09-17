@@ -25,3 +25,7 @@ html {
     border-bottom-width: 1px;
     border-bottom-color: white;
 }
+
+.info {
+    align-content: center;
+}
