@@ -45,6 +45,7 @@ html {
     display: block;
     position: relative;
     margin: auto;
+    cursor: pointer;
 }
 
 .logo {
