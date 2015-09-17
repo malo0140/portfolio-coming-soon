@@ -22,7 +22,6 @@ html {
 }
 
 .white {
-    border-bottom-width: thin;
+    border-bottom-width: 1px;
     border-bottom-color: white;
-    
 }
