@@ -25,7 +25,7 @@ html {
 .white {
     border-style: solid;
     border-width: 7px;
-    border-color: white;
+    border-color: #727272;
     height: 400px;
     width: 90%;
     position: relative;
@@ -48,12 +48,25 @@ html {
 }
 
 .logo {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 130px;
+    max-height: 130px;
     display: block;
     position: relative;
-    margin: auto;
-    
+    margin: auto;   
 }
 
+.title {
+    font: normal 100%/1.5 sail,cursive;
+    color: white;
+    font-size: 24px;
+}
 
+p {
+    color: white;
+    font: normal 100%/1.5 Oswald,sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+    
+}
