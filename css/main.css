@@ -27,7 +27,9 @@ html {
 }
 
 .info {
-    align-content: center;
+    display: block;
+    position: relative;
+    margin: auto;
 }
 
 .icon {
