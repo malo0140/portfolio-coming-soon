@@ -20,3 +20,9 @@ html {
 .background {
     background-color: #5FC8D7;
 }
+
+.white {
+    border-bottom-width: thin;
+    border-bottom-color: white;
+    
+}
