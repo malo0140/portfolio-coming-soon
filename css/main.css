@@ -19,7 +19,7 @@ html {
 
 .background {
     background-color: #5FC8D7;
-    height: 150vh;
+    height: 50vh;
 }
 
 .white {
@@ -27,7 +27,7 @@ html {
     border-width: 10px;
     border-color: white;
     height: 400px;
-    width: 60%;
+    width: 0%;
     position: relative;
     margin: 20px;
     display: block;
