@@ -28,6 +28,7 @@ html {
     height: 400px;
     width: auto;
     position: relative;
+    padding: 15px;
 }
 
 .info {
