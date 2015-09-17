@@ -47,4 +47,12 @@ html {
     margin: auto;
 }
 
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    position: relative;
+    margin: auto;
+}
+
 
