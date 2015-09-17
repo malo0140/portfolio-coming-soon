@@ -19,6 +19,7 @@ html {
 
 .background {
     background-color: #5FC8D7;
+    height: 150vh;
 }
 
 .white {
@@ -29,6 +30,7 @@ html {
     width: 60%;
     position: relative;
     margin: 20px;
+    display: block;
 }
 
 .info {
