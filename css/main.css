@@ -27,6 +27,7 @@ html {
     border-color: white;
     height: 400px;
     width: auto;
+    position: relative;
 }
 
 .info {
