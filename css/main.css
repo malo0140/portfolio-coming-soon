@@ -22,7 +22,7 @@ html {
 }
 
 .white {
-    border-bottom-width: 1px;
+    border-width: 10px;
     border-color: white;
     height: 400px;
     width: auto;
