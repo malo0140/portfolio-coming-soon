@@ -66,13 +66,13 @@ html {
 .title {
     font: normal 100%/1.5 sail,cursive;
     color: white;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 p {
     color: white;
     font: normal 100%/1.5 Oswald,sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
     padding-bottom: 5px;  
